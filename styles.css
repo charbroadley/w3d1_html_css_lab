@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#logo {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+body > header {
+    background-color: lightseagreen;
+    color: white;
+    padding: 16px;
+}
+
+body > header > nav > ul > li > a {
+    color: white;
+}
+
+nav > ul {
+    list-style: none
+}
+
+body > section {
+    padding: 16px;
+}
+
+body > main {
+    padding: 16px;
+}
+
+.article {
+    width: 80%;
+    margin: auto;
+}
+
+.main-text {
+    text-align: justify;
+}
+
+body > footer {
+    background-color: lightseagreen;
+    padding: 16px;
+    color: white;
+    text-align: center;
+}
+
